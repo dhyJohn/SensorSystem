@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "..\\SensorTCPServer\\SensorTCPServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\SensorTCPClient\\SensorTCPClient.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

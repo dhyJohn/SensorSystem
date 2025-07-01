@@ -1,0 +1,7 @@
+﻿  SensorTCPClient.cpp
+C:\Users\gram\source\repos\SensorTCPClient\SensorTCPClient.cpp(9,22): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\gram\source\repos\SensorTCPClient\SensorTCPClient.cpp(15,22): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\gram\source\repos\SensorTCPClient\SensorTCPClient.cpp(26,22): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\gram\source\repos\SensorTCPClient\SensorTCPClient.cpp(42,32): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gram\source\repos\SensorTCPClient\SensorTCPClient.cpp(43,18): warning C4566: 유니버설 문자 이름 '\u2705'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  SensorTCPClient.vcxproj -> C:\Users\gram\source\repos\SensorTCPClient\x64\Debug\SensorTCPClient.exe
